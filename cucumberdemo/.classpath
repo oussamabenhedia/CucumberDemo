@@ -25,8 +25,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="jars/cucumber-core-1.2.5.jar"/>
-	<classpathentry kind="lib" path="jars/cucumber-java-1.2.5.jar"/>
-	<classpathentry kind="lib" path="jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/eclipse-workspace/cucumberdemo/jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/eclipse-workspace/cucumberdemo/jars/cucumber-java-1.2.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
